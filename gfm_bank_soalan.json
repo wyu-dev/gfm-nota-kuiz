@@ -1,0 +1,1402 @@
+[
+    {
+        "id": 1,
+        "source": "Latihan 30 Soalan",
+        "module": "Modul 1: Pengukuran Asas",
+        "question": "Tukarkan 108 km/j kepada m/s.",
+        "options": [
+            "20 m/s",
+            "25 m/s",
+            "30 m/s",
+            "35 m/s"
+        ],
+        "correct_answer": "C",
+        "explanation": "Untuk tukar km/j kepada m/s, gunakan formula: m/s = km/j ÷ 3.6\n\nLangkah penyelesaian:\n108 km/j ÷ 3.6 = 30 m/s\n\nCara mudah ingat: Bahagi dengan 3.6 atau darab dengan 5/18"
+    },
+    {
+        "id": 2,
+        "source": "Latihan 30 Soalan",
+        "module": "Modul 1: Pengukuran Asas",
+        "question": "Tukarkan 4500 g/cm³ kepada kg/m³.",
+        "options": [
+            "4,500 kg/m³",
+            "45,000 kg/m³",
+            "450,000 kg/m³",
+            "4,500,000 kg/m³"
+        ],
+        "correct_answer": "D",
+        "explanation": "Penukaran ketumpatan g/cm³ kepada kg/m³:\n\nLangkah 1: 1 g = 0.001 kg\nLangkah 2: 1 cm³ = 0.000001 m³ (atau 1 m³ = 1,000,000 cm³)\n\nFormula pantas: Darab dengan 1000\n4500 g/cm³ × 1000 = 4,500,000 kg/m³\n\nCara mudah: g/cm³ → kg/m³ (tambah 3 sifar)"
+    },
+    {
+        "id": 3,
+        "source": "Latihan 30 Soalan",
+        "module": "Modul 1: Pengukuran Asas",
+        "question": "Tukarkan 3.4 jam kepada minit.",
+        "options": [
+            "180 minit",
+            "200 minit",
+            "204 minit",
+            "340 minit"
+        ],
+        "correct_answer": "C",
+        "explanation": "Penukaran jam kepada minit:\n\n1 jam = 60 minit\n\nPengiraan:\n3.4 jam = 3.4 × 60 minit\n= 204 minit\n\nTips: 0.4 jam = 0.4 × 60 = 24 minit\nJadi 3 jam + 24 minit = 180 + 24 = 204 minit"
+    },
+    {
+        "id": 4,
+        "source": "Latihan 30 Soalan",
+        "module": "Modul 1: Pengukuran Asas",
+        "question": "Sebuah kotak mengandungi 20 paket. Setiap paket mempunyai jisim 500g. Berapakah jumlah jisim kotak tersebut dalam kg?",
+        "options": [
+            "5 kg",
+            "10 kg",
+            "15 kg",
+            "20 kg"
+        ],
+        "correct_answer": "B",
+        "explanation": "Pengiraan jisim keseluruhan:\n\nLangkah 1: Cari jumlah jisim dalam gram\nJumlah jisim = 20 paket × 500 g\n= 10,000 g\n\nLangkah 2: Tukar kepada kilogram\n10,000 g ÷ 1000 = 10 kg\n\n(1 kg = 1000 g)"
+    },
+    {
+        "id": 5,
+        "source": "Latihan 30 Soalan",
+        "module": "Modul 1: Pengukuran Asas",
+        "question": "Hitung isipadu silinder tersebut. (Guna π = 22/7)",
+        "options": [
+            "1,540 cm³",
+            "1,640 cm³",
+            "1,740 cm³",
+            "1,840 cm³"
+        ],
+        "correct_answer": "A",
+        "explanation": "Formula isipadu silinder: V = πr²t\n\nDiberi:\nr (jejari) = 7 cm\nt (tinggi) = 10 cm\nπ = 22/7\n\nPengiraan:\nV = πr²t\nV = (22/7) × 7² × 10\nV = (22/7) × 49 × 10\nV = 22 × 7 × 10\nV = 1,540 cm³"
+    },
+    {
+        "id": 6,
+        "source": "Latihan 30 Soalan",
+        "module": "Modul 1: Pengukuran Asas",
+        "question": "Hitung isipadu hemisfera tersebut. Rumus: V = (2/3)πr³. (Guna π = 22/7)",
+        "options": [
+            "432 cm³",
+            "452.57 cm³",
+            "472 cm³",
+            "492 cm³"
+        ],
+        "correct_answer": "B",
+        "explanation": "Formula isipadu hemisfera: V = (2/3)πr³\n\nDiberi:\nDiameter (d) = 12 cm\nJejari (r) = d ÷ 2 = 12 ÷ 2 = 6 cm\nπ = 22/7\n\nPengiraan:\nV = (2/3) × (22/7) × 6³\nV = (2/3) × (22/7) × 216\nV = (2 × 22 × 216) ÷ (3 × 7)\nV = 9,504 ÷ 21\nV = 452.57 cm³"
+    },
+    {
+        "id": 7,
+        "source": "Latihan 30 Soalan",
+        "module": "Modul 1: Pengukuran Asas",
+        "question": "Sebuah bekas berbentuk kuboid mempunyai panjang 10 cm dan lebar 5 cm. Bekas tersebut diisi dengan 500 ml air. Berapakah tinggi paras air dalam bekas tersebut?",
+        "options": [
+            "5 cm",
+            "8 cm",
+            "10 cm",
+            "12 cm"
+        ],
+        "correct_answer": "C",
+        "explanation": "Formula isipadu kuboid: V = p × l × t\n\nDiberi:\np = 10 cm\nl = 5 cm\nIsipadu air = 500 ml = 500 cm³ (1 ml = 1 cm³)\n\nCari tinggi (t):\n500 = 10 × 5 × t\n500 = 50 × t\nt = 500 ÷ 50\nt = 10 cm"
+    },
+    {
+        "id": 8,
+        "source": "Latihan 30 Soalan",
+        "module": "Modul 2: Lukisan Berskala",
+        "question": "Sebuah lukisan berskala menggunakan skala 1:500. Panjang lukisan ialah 6 cm. Berapakah panjang sebenar dalam meter?",
+        "options": [
+            "20 m",
+            "25 m",
+            "30 m",
+            "35 m"
+        ],
+        "correct_answer": "C",
+        "explanation": "Formula: Panjang sebenar = Panjang lukisan �� Skala\n\nDiberi:\nSkala = 1:500\nPanjang lukisan = 6 cm\n\nPengiraan:\nPanjang sebenar = 6 cm × 500\n= 3000 cm\n= 3000 ÷ 100\n= 30 m"
+    },
+    {
+        "id": 9,
+        "source": "Latihan 30 Soalan",
+        "module": "Modul 2: Lukisan Berskala",
+        "question": "Tinggi model bangunan ialah 5 cm dan tinggi sebenar bangunan ialah 20 m. Nyatakan skala dalam bentuk 1:n.",
+        "options": [
+            "1:400",
+            "1:500",
+            "1:600",
+            "1:4000"
+        ],
+        "correct_answer": "A",
+        "explanation": "Formula: Skala = Ukuran model : Ukuran sebenar\n\nDiberi:\nTinggi model = 5 cm\nTinggi sebenar = 20 m = 2000 cm\n\nPengiraan:\nSkala = 5 : 2000\n= 1 : (2000 ÷ 5)\n= 1 : 400"
+    },
+    {
+        "id": 10,
+        "source": "Latihan 30 Soalan",
+        "module": "Modul 2: Lukisan Berskala",
+        "question": "Jarak antara dua bandar pada peta ialah 4 cm. Skala peta ialah 1:200,000. Berapakah jarak sebenar antara kedua-dua bandar dalam km?",
+        "options": [
+            "6 km",
+            "8 km",
+            "10 km",
+            "12 km"
+        ],
+        "correct_answer": "B",
+        "explanation": "Formula: Jarak sebenar = Jarak peta × Skala\n\nDiberi:\nJarak peta = 4 cm\nSkala = 1:200,000\n\nPengiraan:\nJarak sebenar = 4 cm × 200,000\n= 800,000 cm\n= 800,000 ÷ 100,000 (tukar ke km)\n= 8 km"
+    },
+    {
+        "id": 11,
+        "source": "Latihan 30 Soalan",
+        "module": "Modul 2: Lukisan Berskala",
+        "question": "Sebuah lukisan menggunakan skala 1:2. Luas lukisan ialah 10 cm². Berapakah luas sebenar objek tersebut?",
+        "options": [
+            "20 cm²",
+            "30 cm²",
+            "40 cm²",
+            "50 cm²"
+        ],
+        "correct_answer": "C",
+        "explanation": "Untuk luas, skala dikuasa dua!\n\nDiberi:\nSkala panjang = 1:2\nLuas lukisan = 10 cm²\n\nPengiraan:\nSkala luas = (1:2)² = 1:4\nLuas sebenar = 10 cm² × 4\n= 40 cm²"
+    },
+    {
+        "id": 12,
+        "source": "Latihan 30 Soalan",
+        "module": "Modul 2: Lukisan Berskala",
+        "question": "Panjang sebenar jambatan ialah 1 km. Jika skala yang digunakan ialah 1:20,000, berapakah panjang lukisan jambatan dalam cm?",
+        "options": [
+            "3 cm",
+            "4 cm",
+            "5 cm",
+            "6 cm"
+        ],
+        "correct_answer": "C",
+        "explanation": "Formula: Panjang lukisan = Panjang sebenar ÷ Skala\n\nDiberi:\nPanjang sebenar = 1 km = 100,000 cm\nSkala = 1:20,000\n\nPengiraan:\nPanjang lukisan = 100,000 ÷ 20,000\n= 5 cm"
+    },
+    {
+        "id": 13,
+        "source": "Latihan 30 Soalan",
+        "module": "Modul 2: Lukisan Berskala",
+        "question": "Adakah skala 1:200 merupakan pembesaran atau pengecilan?",
+        "options": [
+            "Pembesaran",
+            "Pengecilan",
+            "Saiz Sebenar",
+            "Tiada perubahan"
+        ],
+        "correct_answer": "B",
+        "explanation": "Cara tentukan pembesaran atau pengecilan:\n\nJika 1:n dan n > 1 → Pengecilan\nJika 1:n dan n < 1 → Pembesaran\nJika 1:1 → Saiz sebenar\n\nSkala 1:200:\n200 > 1, jadi ia adalah PENGECILAN\n(Objek sebenar 200 kali lebih besar)"
+    },
+    {
+        "id": 14,
+        "source": "Latihan 30 Soalan",
+        "module": "Modul 2: Lukisan Berskala",
+        "question": "Skala yang digunakan untuk melukis bakteria ialah 1 : 1/2. Adakah ini pembesaran atau pengecilan?",
+        "options": [
+            "Pengecilan",
+            "Pembesaran",
+            "Saiz Sebenar",
+            "Tidak boleh ditentukan"
+        ],
+        "correct_answer": "B",
+        "explanation": "Skala 1 : 1/2 atau 1 : 0.5\n\nCara semak:\n1/2 = 0.5, dan 0.5 < 1\n\nJika 1:n dan n < 1 → PEMBESARAN\n\nMakna: Lukisan 2 kali lebih besar daripada objek sebenar.\nIni perlu untuk bakteria yang sangat kecil supaya boleh dilihat dengan jelas."
+    },
+    {
+        "id": 15,
+        "source": "Latihan 30 Soalan",
+        "module": "Modul 2: Lukisan Berskala",
+        "question": "Model kereta dibina dengan skala 1:50. Panjang model ialah 8 cm. Berapakah panjang sebenar kereta dalam meter?",
+        "options": [
+            "2 m",
+            "3 m",
+            "4 m",
+            "5 m"
+        ],
+        "correct_answer": "C",
+        "explanation": "Formula: Panjang sebenar = Panjang model × Skala\n\nDiberi:\nPanjang model = 8 cm\nSkala = 1:50\n\nPengiraan:\nPanjang sebenar = 8 cm × 50\n= 400 cm\n= 400 ÷ 100\n= 4 m"
+    },
+    {
+        "id": 16,
+        "source": "Latihan 30 Soalan",
+        "module": "Modul 3: Trigonometri",
+        "question": "Hitungkan nilai tan 145°. (Gunakan kalkulator saintifik)",
+        "options": [
+            "-1.000",
+            "-0.707",
+            "0.707",
+            "1.000"
+        ],
+        "correct_answer": "B",
+        "explanation": "Menggunakan kalkulator saintifik:\n\n1. Pastikan kalkulator dalam mod DEGREE (bukan radian)\n2. Tekan: tan 145 =\n\nJawapan: tan 145° = -0.7002 ≈ -0.707\n\nNota: 145° berada di kuadran II, dimana tan adalah negatif."
+    },
+    {
+        "id": 17,
+        "source": "Latihan 30 Soalan",
+        "module": "Modul 3: Trigonometri",
+        "question": "Hitungkan nilai kos 270°. (Gunakan kalkulator saintifik)",
+        "options": [
+            "-1",
+            "0",
+            "1",
+            "Tidak ditakrifkan"
+        ],
+        "correct_answer": "B",
+        "explanation": "270° adalah sudut istimewa pada paksi-y negatif.\n\nNilai trigonometri istimewa:\nsin 270° = -1\nkos 270° = 0\ntan 270° = tidak ditakrifkan\n\nJawapan: kos 270° = 0\n\nTips: 270° adalah 3/4 pusingan (270° = 90° × 3)"
+    },
+    {
+        "id": 18,
+        "source": "Latihan 30 Soalan",
+        "module": "Modul 3: Trigonometri",
+        "question": "Cari panjang hipotenus menggunakan Teorem Pythagoras.",
+        "options": [
+            "8 cm",
+            "9 cm",
+            "10 cm",
+            "12 cm"
+        ],
+        "correct_answer": "C",
+        "explanation": "Teorem Pythagoras: c² = a² + b²\n\nDiberi:\na = 6 cm\nb = 8 cm\n\nPengiraan:\nc² = 6² + 8²\nc² = 36 + 64\nc² = 100\nc = √100\nc = 10 cm\n\nTips: 6-8-10 adalah triple Pythagoras yang popular!"
+    },
+    {
+        "id": 19,
+        "source": "Latihan 30 Soalan",
+        "module": "Modul 3: Trigonometri",
+        "question": "Diberi sin θ = 0.5 dan hipotenus = 10 cm. Cari panjang sisi tentangan.",
+        "options": [
+            "3 cm",
+            "4 cm",
+            "5 cm",
+            "6 cm"
+        ],
+        "correct_answer": "C",
+        "explanation": "Formula: sin θ = tentangan / hipotenus\n\nDiberi:\nsin θ = 0.5\nhipotenus = 10 cm\n\nPengiraan:\n0.5 = tentangan / 10\ntentangan = 0.5 × 10\ntentangan = 5 cm"
+    },
+    {
+        "id": 20,
+        "source": "Latihan 30 Soalan",
+        "module": "Modul 3: Trigonometri",
+        "question": "Diberi tan θ = 1 dan sisi sebelah = 5 cm. Cari panjang sisi tentangan.",
+        "options": [
+            "3 cm",
+            "4 cm",
+            "5 cm",
+            "6 cm"
+        ],
+        "correct_answer": "C",
+        "explanation": "Formula: tan θ = tentangan / sebelah\n\nDiberi:\ntan θ = 1\nsebelah = 5 cm\n\nPengiraan:\n1 = tentangan / 5\ntentangan = 1 × 5\ntentangan = 5 cm\n\nNota: Jika tan θ = 1, bermakna tentangan = sebelah (sudut 45°)"
+    },
+    {
+        "id": 21,
+        "source": "Latihan 30 Soalan",
+        "module": "Modul 3: Trigonometri",
+        "question": "Graf manakah yang mewakili fungsi y = sin x?",
+        "options": [
+            "Graf bermula dari (0,0) naik ke atas",
+            "Graf bermula dari (0,1) turun ke bawah",
+            "Graf bermula dari (0,0) turun ke bawah",
+            "Garis lurus mendatar"
+        ],
+        "correct_answer": "A",
+        "explanation": "Ciri-ciri graf y = sin x:\n\n1. Bermula dari titik (0,0)\n2. Naik ke puncak (90°, 1)\n3. Turun ke (180°, 0)\n4. Terus turun ke lembah (270°, -1)\n5. Naik balik ke (360°, 0)\n\nJawapan: Graf bermula dari (0,0) dan naik ke atas"
+    },
+    {
+        "id": 22,
+        "source": "Latihan 30 Soalan",
+        "module": "Modul 3: Trigonometri",
+        "question": "Graf manakah yang mewakili fungsi y = kos x?",
+        "options": [
+            "Graf bermula dari (0,0)",
+            "Graf bermula dari (0,1) di puncak",
+            "Graf bermula dari (0,-1)",
+            "Graf bermula dari (0,0) turun"
+        ],
+        "correct_answer": "B",
+        "explanation": "Ciri-ciri graf y = kos x:\n\n1. Bermula dari titik (0,1) - DI PUNCAK\n2. Turun ke (90°, 0)\n3. Terus turun ke lembah (180°, -1)\n4. Naik ke (270°, 0)\n5. Naik balik ke (360°, 1)\n\nJawapan: Graf bermula dari (0,1) di puncak"
+    },
+    {
+        "id": 23,
+        "source": "Latihan 30 Soalan",
+        "module": "Modul 3: Trigonometri",
+        "question": "Cari nilai θ jika kos θ = 0.5 dan 0° ≤ θ ≤ 90°.",
+        "options": [
+            "30°",
+            "45°",
+            "60°",
+            "90°"
+        ],
+        "correct_answer": "C",
+        "explanation": "Ini adalah nilai trigonometri istimewa!\n\nNilai istimewa yang perlu diingat:\nkos 30° = √3/2 ≈ 0.866\nkos 45° = √2/2 ≈ 0.707\nkos 60° = 1/2 = 0.5 ✓\nkos 90° = 0\n\nJawapan: θ = 60°"
+    },
+    {
+        "id": 24,
+        "source": "Latihan 30 Soalan",
+        "module": "Modul 4: Statistik",
+        "question": "Cari mod bagi set data berikut: 4, 8, 4, 2, 9, 4",
+        "options": [
+            "2",
+            "4",
+            "8",
+            "9"
+        ],
+        "correct_answer": "B",
+        "explanation": "MOD = nilai yang paling KERAP muncul\n\nData: 4, 8, 4, 2, 9, 4\n\nKekerapan:\n2 → muncul 1 kali\n4 → muncul 3 kali ✓ (paling banyak)\n8 → muncul 1 kali\n9 → muncul 1 kali\n\nJawapan: Mod = 4"
+    },
+    {
+        "id": 25,
+        "source": "Latihan 30 Soalan",
+        "module": "Modul 4: Statistik",
+        "question": "Cari median bagi set data berikut: 10, 20, 30, 40, 50",
+        "options": [
+            "20",
+            "25",
+            "30",
+            "35"
+        ],
+        "correct_answer": "C",
+        "explanation": "MEDIAN = nilai tengah (bila disusun)\n\nData sudah tersusun: 10, 20, 30, 40, 50\nBilangan data = 5 (ganjil)\n\nNilai tengah berada di kedudukan ke-3:\n10, 20, [30], 40, 50\n\nJawapan: Median = 30"
+    },
+    {
+        "id": 26,
+        "source": "Latihan 30 Soalan",
+        "module": "Modul 4: Statistik",
+        "question": "Kirakan min (purata) bagi nombor berikut: 2, 4, 6, 8",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "correct_answer": "B",
+        "explanation": "MIN = Jumlah semua nilai ÷ Bilangan data\n\nData: 2, 4, 6, 8\n\nPengiraan:\nJumlah = 2 + 4 + 6 + 8 = 20\nBilangan data = 4\n\nMin = 20 ÷ 4 = 5"
+    },
+    {
+        "id": 27,
+        "source": "Latihan 30 Soalan",
+        "module": "Modul 4: Statistik",
+        "question": "Cari julat bagi set data berikut: 5, 12, 3, 20",
+        "options": [
+            "15",
+            "17",
+            "18",
+            "20"
+        ],
+        "correct_answer": "B",
+        "explanation": "JULAT = Nilai terbesar - Nilai terkecil\n\nData: 5, 12, 3, 20\n\nNilai terbesar = 20\nNilai terkecil = 3\n\nJulat = 20 - 3 = 17"
+    },
+    {
+        "id": 28,
+        "source": "Latihan 30 Soalan",
+        "module": "Modul 4: Statistik",
+        "question": "Tentukan kelas mod daripada histogram di atas.",
+        "options": [
+            "0-10",
+            "10-20",
+            "20-30",
+            "30-40"
+        ],
+        "correct_answer": "C",
+        "explanation": "KELAS MOD = Kelas dengan kekerapan TERTINGGI (bar paling tinggi)\n\nDaripada histogram:\n0-10: kekerapan 5\n10-20: kekerapan 10\n20-30: kekerapan 15 ✓ (paling tinggi)\n30-40: kekerapan 7\n\nJawapan: Kelas mod = 20-30"
+    },
+    {
+        "id": 29,
+        "source": "Latihan 30 Soalan",
+        "module": "Modul 4: Statistik",
+        "question": "Berdasarkan graf Ogif, berapakah nilai median?",
+        "options": [
+            "40",
+            "45",
+            "50",
+            "55"
+        ],
+        "correct_answer": "C",
+        "explanation": "MEDIAN dari Ogif = Nilai pada kekerapan longgokan 50%\n\nCara cari median dari Ogif:\n1. Cari jumlah kekerapan (biasanya di puncak ogif) = 100\n2. Median pada 50% = 100 ÷ 2 = 50\n3. Lukis garis mendatar dari 50 ke ogif\n4. Lukis garis menegak ke paksi-x\n5. Baca nilai = 50\n\nJawapan: Median = 50"
+    },
+    {
+        "id": 30,
+        "source": "Latihan 30 Soalan",
+        "module": "Modul 4: Statistik",
+        "question": "Apakah yang diukur oleh sisihan piawai?",
+        "options": [
+            "Nilai tertinggi data",
+            "Nilai terendah data",
+            "Serakan atau penyebaran data",
+            "Bilangan data"
+        ],
+        "correct_answer": "C",
+        "explanation": "SISIHAN PIAWAI mengukur SERAKAN atau PENYEBARAN data dari min.\n\nMakna:\n• Sisihan piawai KECIL → data berkumpul rapat (seragam)\n• Sisihan piawai BESAR → data berselerak jauh (tidak seragam)\n\nContoh:\nSet A: 5, 5, 5, 5 → sisihan piawai = 0 (sangat seragam)\nSet B: 1, 3, 7, 9 → sisihan piawai besar (berselerak)"
+    },
+    {
+        "id": 31,
+        "source": "Kuiz Nota",
+        "module": "Campuran Modul",
+        "question": "Tukarkan 2.5 km kepada meter.",
+        "options": [
+            "250 m",
+            "2500 m",
+            "25000 m",
+            "25 m"
+        ],
+        "correct_answer": "B",
+        "explanation": "2.5 km = 2.5 × 1000 = 2500 m. Ingat: 1 km = 1000 m, jadi darab dengan 1000."
+    },
+    {
+        "id": 32,
+        "source": "Kuiz Nota",
+        "module": "Campuran Modul",
+        "question": "Tukarkan 4.2 jam kepada minit.",
+        "options": [
+            "420 minit",
+            "252 minit",
+            "240 minit",
+            "42 minit"
+        ],
+        "correct_answer": "B",
+        "explanation": "4.2 jam = 4.2 × 60 = 252 minit. Ingat: 1 jam = 60 minit."
+    },
+    {
+        "id": 33,
+        "source": "Kuiz Nota",
+        "module": "Campuran Modul",
+        "question": "Cari isipadu kubus jika panjang sisi ialah 5 cm.",
+        "options": [
+            "25 cm³",
+            "75 cm³",
+            "125 cm³",
+            "15 cm³"
+        ],
+        "correct_answer": "C",
+        "explanation": "Isipadu kubus = sisi³ = 5³ = 5 × 5 × 5 = 125 cm³"
+    },
+    {
+        "id": 34,
+        "source": "Kuiz Nota",
+        "module": "Campuran Modul",
+        "question": "Tukarkan 5000 g kepada kg.",
+        "options": [
+            "50 kg",
+            "500 kg",
+            "5 kg",
+            "0.5 kg"
+        ],
+        "correct_answer": "C",
+        "explanation": "5000 g = 5000 ÷ 1000 = 5 kg. Ingat: 1 kg = 1000 g, jadi bahagi dengan 1000."
+    },
+    {
+        "id": 35,
+        "source": "Kuiz Nota",
+        "module": "Campuran Modul",
+        "question": "Hitungkan 180 km/j dalam m/s.",
+        "options": [
+            "50 m/s",
+            "180 m/s",
+            "5 m/s",
+            "18 m/s"
+        ],
+        "correct_answer": "A",
+        "explanation": "180 km/j = (180 × 1000) ÷ 3600 = 180000 ÷ 3600 = 50 m/s. Langkah: darab 1000 (km→m), bahagi 3600 (jam→saat)."
+    },
+    {
+        "id": 36,
+        "source": "Kuiz Nota",
+        "module": "Campuran Modul",
+        "question": "Tuliskan skala jika 1 cm mewakili 100 cm.",
+        "options": [
+            "1:10",
+            "1:100",
+            "1:1000",
+            "10:1"
+        ],
+        "correct_answer": "B",
+        "explanation": "1 cm : 100 cm = 1:100. Skala ditulis sebagai nisbah ukuran lukisan kepada ukuran sebenar."
+    },
+    {
+        "id": 37,
+        "source": "Kuiz Nota",
+        "module": "Campuran Modul",
+        "question": "Panjang sungai pada peta ialah 5 cm. Skala peta 1:1000. Cari panjang sebenar dalam cm.",
+        "options": [
+            "5000 cm",
+            "500 cm",
+            "50 cm",
+            "5 cm"
+        ],
+        "correct_answer": "A",
+        "explanation": "Panjang sebenar = 5 cm × 1000 = 5000 cm. Guna formula: Ukuran Sebenar = Ukuran Lukisan × n"
+    },
+    {
+        "id": 38,
+        "source": "Kuiz Nota",
+        "module": "Campuran Modul",
+        "question": "Adakah skala 1:1/2 pembesaran atau pengecilan?",
+        "options": [
+            "Pengecilan",
+            "Pembesaran",
+            "Sama saiz",
+            "Tidak dapat ditentukan"
+        ],
+        "correct_answer": "B",
+        "explanation": "1:1/2 = 2:1 (lukisan lebih besar), jadi ini adalah PEMBESARAN. Jika n < 1, ia adalah pembesaran."
+    },
+    {
+        "id": 39,
+        "source": "Kuiz Nota",
+        "module": "Campuran Modul",
+        "question": "Jika skala panjang ialah 1:10, apakah skala untuk LUAS?",
+        "options": [
+            "1:10",
+            "1:20",
+            "1:100",
+            "1:1000"
+        ],
+        "correct_answer": "C",
+        "explanation": "Skala luas = (skala panjang)² = (1:10)² = 1:100. PENTING: Luas menggunakan kuasa dua!"
+    },
+    {
+        "id": 40,
+        "source": "Kuiz Nota",
+        "module": "Campuran Modul",
+        "question": "Sebuah segi empat sama dilukis dengan skala 1:4. Jika panjang sisi lukisan ialah 2 cm, cari LUAS sebenar.",
+        "options": [
+            "8 cm²",
+            "16 cm²",
+            "64 cm²",
+            "32 cm²"
+        ],
+        "correct_answer": "C",
+        "explanation": "Sisi sebenar = 2 × 4 = 8 cm. Luas sebenar = 8² = 64 cm². ATAU gunakan: Luas lukisan × n² = 4 × 4² = 4 × 16 = 64 cm²"
+    },
+    {
+        "id": 41,
+        "source": "Kuiz Nota",
+        "module": "Campuran Modul",
+        "question": "Dalam segi tiga ABC, sudut C ialah 90°. Jika AB = 5, BC = 3, cari AC.",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correct_answer": "C",
+        "explanation": "Guna Teorem Pythagoras: AC² = AB² - BC² = 5² - 3² = 25 - 9 = 16, jadi AC = √16 = 4"
+    },
+    {
+        "id": 42,
+        "source": "Kuiz Nota",
+        "module": "Campuran Modul",
+        "question": "Berapakah nilai tan 45°?",
+        "options": [
+            "0",
+            "0.5",
+            "1",
+            "1.414"
+        ],
+        "correct_answer": "C",
+        "explanation": "tan 45° = 1. Ini adalah nilai istimewa yang perlu diingat!"
+    },
+    {
+        "id": 43,
+        "source": "Kuiz Nota",
+        "module": "Campuran Modul",
+        "question": "Berapakah nilai sin 30°?",
+        "options": [
+            "0",
+            "0.5",
+            "0.866",
+            "1"
+        ],
+        "correct_answer": "B",
+        "explanation": "sin 30° = 0.5. Nilai istimewa: sin 0°=0, sin 30°=0.5, sin 90°=1"
+    },
+    {
+        "id": 44,
+        "source": "Kuiz Nota",
+        "module": "Campuran Modul",
+        "question": "Diberi tan θ = Tentangan / Sebelahan. Sisi manakah hipotenus?",
+        "options": [
+            "Tentangan",
+            "Sebelahan",
+            "Sisi bertentangan sudut 90°",
+            "Semua salah"
+        ],
+        "correct_answer": "C",
+        "explanation": "Hipotenus adalah sisi terpanjang yang bertentangan dengan sudut tegak (90°). Ia TIDAK digunakan dalam formula tan θ."
+    },
+    {
+        "id": 45,
+        "source": "Kuiz Nota",
+        "module": "Campuran Modul",
+        "question": "Graf manakah bermula pada paksi-y di nilai 0? Sin atau Kos?",
+        "options": [
+            "Sin",
+            "Kos",
+            "Kedua-duanya",
+            "Tidak ada"
+        ],
+        "correct_answer": "A",
+        "explanation": "Graf SIN bermula dari 0 (tengah) pada 0°. Graf KOS bermula dari 1 (puncak) pada 0°."
+    },
+    {
+        "id": 46,
+        "source": "Kuiz Nota",
+        "module": "Campuran Modul",
+        "question": "Cari mod bagi set data: 2, 5, 2, 7, 2, 9.",
+        "options": [
+            "5",
+            "2",
+            "7",
+            "9"
+        ],
+        "correct_answer": "B",
+        "explanation": "Mod = nilai yang paling kerap muncul. Angka 2 muncul 3 kali (paling banyak)."
+    },
+    {
+        "id": 47,
+        "source": "Kuiz Nota",
+        "module": "Campuran Modul",
+        "question": "Cari median bagi set data: 1, 3, 5, 7, 9.",
+        "options": [
+            "3",
+            "5",
+            "7",
+            "25"
+        ],
+        "correct_answer": "B",
+        "explanation": "Median = nilai tengah. Susun data: 1, 3, 5, 7, 9. Nilai tengah ialah 5."
+    },
+    {
+        "id": 48,
+        "source": "Kuiz Nota",
+        "module": "Campuran Modul",
+        "question": "Kira min bagi nombor: 2, 4, 6, 8, 10.",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correct_answer": "B",
+        "explanation": "Min = Jumlah ÷ Bilangan = (2+4+6+8+10) ÷ 5 = 30 ÷ 5 = 6"
+    },
+    {
+        "id": 49,
+        "source": "Kuiz Nota",
+        "module": "Campuran Modul",
+        "question": "Dalam Histogram, paksi-y mewakili apa?",
+        "options": [
+            "Kelas",
+            "Kekerapan",
+            "Nilai",
+            "Median"
+        ],
+        "correct_answer": "B",
+        "explanation": "Paksi-Y histogram mewakili KEKERAPAN (berapa kali sesuatu nilai muncul). Paksi-X mewakili kelas/selang."
+    },
+    {
+        "id": 50,
+        "source": "Kuiz Nota",
+        "module": "Campuran Modul",
+        "question": "Daripada Ogif, jumlah data ialah 40. Pada kedudukan kekerapan ke berapakah letaknya Median?",
+        "options": [
+            "20",
+            "40",
+            "10",
+            "21"
+        ],
+        "correct_answer": "A",
+        "explanation": "Kedudukan Median = n/2 = 40/2 = 20. Baca nilai pada Ogif pada kekerapan longgokan ke-20."
+    },
+    {
+        "id": 51,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Tukarkan 72 km/j kepada m/s.",
+        "options": [
+            "20 m/s",
+            "72 m/s",
+            "7.2 m/s",
+            "200 m/s"
+        ],
+        "correct_answer": "A",
+        "explanation": "72 ÷ 3.6 = 20 m/s"
+    },
+    {
+        "id": 52,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Tukarkan 2500 ml kepada liter.",
+        "options": [
+            "2.5 L",
+            "25 L",
+            "0.25 L",
+            "250 L"
+        ],
+        "correct_answer": "A",
+        "explanation": "2500 ÷ 1000 = 2.5 L"
+    },
+    {
+        "id": 53,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Isipadu silinder dengan r=7cm, t=15cm (π=22/7):",
+        "options": [
+            "2310 cm³",
+            "1540 cm³",
+            "660 cm³",
+            "154 cm³"
+        ],
+        "correct_answer": "A",
+        "explanation": "V = πr²t = (22/7)×49×15 = 2310"
+    },
+    {
+        "id": 54,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Luas bulatan dengan jejari 7 cm (π=22/7):",
+        "options": [
+            "154 cm²",
+            "44 cm²",
+            "22 cm²",
+            "308 cm²"
+        ],
+        "correct_answer": "A",
+        "explanation": "L = πr² = (22/7)×49 = 154 cm²"
+    },
+    {
+        "id": 55,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Perimeter segi empat tepat 8cm × 5cm:",
+        "options": [
+            "26 cm",
+            "13 cm",
+            "40 cm",
+            "52 cm"
+        ],
+        "correct_answer": "A",
+        "explanation": "P = 2(8+5) = 26 cm"
+    },
+    {
+        "id": 56,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Tukarkan 3.5 g/cm³ kepada kg/m³:",
+        "options": [
+            "3500 kg/m³",
+            "350 kg/m³",
+            "35 kg/m³",
+            "0.35 kg/m³"
+        ],
+        "correct_answer": "A",
+        "explanation": "3.5 × 1000 = 3500 kg/m³"
+    },
+    {
+        "id": 57,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Luas segi tiga dengan tapak 12cm, tinggi 8cm:",
+        "options": [
+            "48 cm²",
+            "96 cm²",
+            "24 cm²",
+            "20 cm²"
+        ],
+        "correct_answer": "A",
+        "explanation": "L = ½×12×8 = 48 cm²"
+    },
+    {
+        "id": 58,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Isipadu kubus dengan sisi 5 cm:",
+        "options": [
+            "125 cm³",
+            "25 cm³",
+            "75 cm³",
+            "150 cm³"
+        ],
+        "correct_answer": "A",
+        "explanation": "V = 5³ = 125 cm³"
+    },
+    {
+        "id": 59,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Lilitan bulatan dengan diameter 14 cm (π=22/7):",
+        "options": [
+            "44 cm",
+            "22 cm",
+            "88 cm",
+            "154 cm"
+        ],
+        "correct_answer": "A",
+        "explanation": "L = πd = (22/7)×14 = 44 cm"
+    },
+    {
+        "id": 60,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "3 jam 45 minit dalam minit:",
+        "options": [
+            "225 minit",
+            "345 minit",
+            "375 minit",
+            "180 minit"
+        ],
+        "correct_answer": "A",
+        "explanation": "180 + 45 = 225 minit"
+    },
+    {
+        "id": 61,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Skala 1:50 bermaksud:",
+        "options": [
+            "1cm lukisan = 50cm sebenar",
+            "50cm lukisan = 1cm sebenar",
+            "1m = 50m",
+            "1cm = 5cm"
+        ],
+        "correct_answer": "A",
+        "explanation": "1 unit lukisan = 50 unit sebenar"
+    },
+    {
+        "id": 62,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Jarak pada peta 5cm, skala 1:1000. Jarak sebenar:",
+        "options": [
+            "50 m",
+            "500 m",
+            "5000 m",
+            "5 m"
+        ],
+        "correct_answer": "A",
+        "explanation": "5cm × 1000 = 5000cm = 50m"
+    },
+    {
+        "id": 63,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Lukisan dengan skala 2:1 adalah:",
+        "options": [
+            "Pengecilan",
+            "Pembesaran",
+            "Saiz sebenar",
+            "Skala standard"
+        ],
+        "correct_answer": "B",
+        "explanation": "2:1 = pembesaran 2 kali"
+    },
+    {
+        "id": 64,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Skala 1:100, lukisan 3cm. Sebenar:",
+        "options": [
+            "3 m",
+            "30 m",
+            "300 m",
+            "0.3 m"
+        ],
+        "correct_answer": "A",
+        "explanation": "3cm × 100 = 300cm = 3m"
+    },
+    {
+        "id": 65,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Bilik 6m×4m, skala 1:200. Ukuran lukisan:",
+        "options": [
+            "3cm × 2cm",
+            "30cm × 20cm",
+            "6cm × 4cm",
+            "1.2cm × 0.8cm"
+        ],
+        "correct_answer": "A",
+        "explanation": "600÷200=3, 400÷200=2"
+    },
+    {
+        "id": 66,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Untuk lukis 2.5m dengan 5cm lukisan, skala:",
+        "options": [
+            "1:50",
+            "1:500",
+            "1:25",
+            "1:5"
+        ],
+        "correct_answer": "A",
+        "explanation": "5:250 = 1:50"
+    },
+    {
+        "id": 67,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Luas lukisan 15cm², skala 1:2000. Luas sebenar:",
+        "options": [
+            "6000 m²",
+            "60000 m²",
+            "600 m²",
+            "60 m²"
+        ],
+        "correct_answer": "A",
+        "explanation": "15 × 2000² ÷ 10000 = 6000m²"
+    },
+    {
+        "id": 68,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Jarak 8cm pada peta, skala 1:500000. Jarak sebenar (km):",
+        "options": [
+            "40 km",
+            "4 km",
+            "400 km",
+            "4000 km"
+        ],
+        "correct_answer": "A",
+        "explanation": "8×500000=4000000cm=40km"
+    },
+    {
+        "id": 69,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Skala biasa untuk peta bandar:",
+        "options": [
+            "1:1",
+            "1:10",
+            "1:10000",
+            "10:1"
+        ],
+        "correct_answer": "C",
+        "explanation": "Peta bandar guna 1:10000"
+    },
+    {
+        "id": 70,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Model 18cm×7cm, skala 1:24. Luas sebenar:",
+        "options": [
+            "7.56 m²",
+            "0.756 m²",
+            "75.6 m²",
+            "1.26 m²"
+        ],
+        "correct_answer": "B",
+        "explanation": "(18×7)×576÷10000=0.73m²"
+    },
+    {
+        "id": 71,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Hipotenus ialah:",
+        "options": [
+            "Sisi terpendek",
+            "Sisi terpanjang",
+            "Sisi tegak",
+            "Sisi mendatar"
+        ],
+        "correct_answer": "B",
+        "explanation": "Hipotenus = sisi terpanjang dalam segi tiga bersudut tegak"
+    },
+    {
+        "id": 72,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Teorem Pythagoras:",
+        "options": [
+            "T+S=H",
+            "T²+S²=H²",
+            "T×S=H",
+            "T²+S=H²"
+        ],
+        "correct_answer": "B",
+        "explanation": "Teorem Pythagoras: T² + S² = H²"
+    },
+    {
+        "id": 73,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "sin 30° =",
+        "options": [
+            "0.5",
+            "0.866",
+            "1",
+            "0.707"
+        ],
+        "correct_answer": "A",
+        "explanation": "sin 30° = 0.5"
+    },
+    {
+        "id": 74,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Definisi 'tentangan' dalam trigonometri:",
+        "options": [
+            "Sisi hipotenus",
+            "Sisi sebelahan dengan sudut",
+            "Sisi berhadapan dengan sudut",
+            "Sisi tegak"
+        ],
+        "correct_answer": "C",
+        "explanation": "Tentangan = sisi yang berhadapan dengan sudut"
+    },
+    {
+        "id": 75,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Formula tan θ:",
+        "options": [
+            "T/H",
+            "S/H",
+            "T/S",
+            "H/T"
+        ],
+        "correct_answer": "C",
+        "explanation": "tan θ = T / S (tentangan / sebelahan)"
+    },
+    {
+        "id": 76,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Tentangan 3 cm, sebelahan 4 cm. Hipotenus?",
+        "options": [
+            "5 cm",
+            "7 cm",
+            "6 cm",
+            "25 cm"
+        ],
+        "correct_answer": "A",
+        "explanation": "H² = 3² + 4² = 25, H = 5 cm"
+    },
+    {
+        "id": 77,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "sin θ = 0.6, H = 10 cm. Tentangan?",
+        "options": [
+            "6 cm",
+            "16 cm",
+            "4 cm",
+            "8 cm"
+        ],
+        "correct_answer": "A",
+        "explanation": "T = sin θ × H = 0.6 × 10 = 6 cm"
+    },
+    {
+        "id": 78,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Tangga 5m, sudut 60°. Tinggi dinding? (sin60°=0.866)",
+        "options": [
+            "4.33 m",
+            "2.5 m",
+            "5 m",
+            "3 m"
+        ],
+        "correct_answer": "A",
+        "explanation": "Tinggi = 5 × sin 60° = 5 × 0.866 = 4.33 m"
+    },
+    {
+        "id": 79,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "S=12cm, H=15cm. Cari sudut θ.",
+        "options": [
+            "36.87°",
+            "53.13°",
+            "60°",
+            "45°"
+        ],
+        "correct_answer": "A",
+        "explanation": "kos θ = 12/15 = 0.8, θ = kos⁻¹(0.8) = 36.87°"
+    },
+    {
+        "id": 80,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Bangunan 30m, sudut tunduk 25° (tan25°=0.466). Jarak?",
+        "options": [
+            "64.38 m",
+            "30 m",
+            "14 m",
+            "53.76 m"
+        ],
+        "correct_answer": "A",
+        "explanation": "Jarak = 30 / 0.466 = 64.38 m"
+    },
+    {
+        "id": 81,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Min bagi 2,4,6,8,10:",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correct_answer": "B",
+        "explanation": "30÷5 = 6"
+    },
+    {
+        "id": 82,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Median bagi 3,7,5,9,1:",
+        "options": [
+            "3",
+            "5",
+            "7",
+            "9"
+        ],
+        "correct_answer": "B",
+        "explanation": "Susun: 1,3,5,7,9. Median=5"
+    },
+    {
+        "id": 83,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Mod bagi 2,3,3,4,5,3,6:",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "6"
+        ],
+        "correct_answer": "B",
+        "explanation": "3 muncul paling banyak"
+    },
+    {
+        "id": 84,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Julat bagi 15,20,8,25,12:",
+        "options": [
+            "17",
+            "10",
+            "25",
+            "8"
+        ],
+        "correct_answer": "A",
+        "explanation": "25-8 = 17"
+    },
+    {
+        "id": 85,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Data: 10,20,30,40,50. Median:",
+        "options": [
+            "20",
+            "25",
+            "30",
+            "35"
+        ],
+        "correct_answer": "C",
+        "explanation": "Nilai tengah = 30"
+    },
+    {
+        "id": 86,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Min data: 2(f=3), 4(f=5), 6(f=2):",
+        "options": [
+            "4",
+            "3.8",
+            "4.2",
+            "5"
+        ],
+        "correct_answer": "B",
+        "explanation": "Σ(x×f)/Σf = 38/10 = 3.8"
+    },
+    {
+        "id": 87,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Median bagi 4,7,9,12,15,18:",
+        "options": [
+            "9",
+            "10.5",
+            "12",
+            "11"
+        ],
+        "correct_answer": "B",
+        "explanation": "(9+12)÷2 = 10.5"
+    },
+    {
+        "id": 88,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Varians bagi 2,4,6,8 (Min=5):",
+        "options": [
+            "5",
+            "2.5",
+            "10",
+            "3.5"
+        ],
+        "correct_answer": "A",
+        "explanation": "(9+1+1+9)÷4 = 5"
+    },
+    {
+        "id": 89,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Sisihan piawai jika varians = 16:",
+        "options": [
+            "4",
+            "8",
+            "2",
+            "256"
+        ],
+        "correct_answer": "A",
+        "explanation": "√16 = 4"
+    },
+    {
+        "id": 90,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Min bagi kelas 10-20(f=5), 20-30(f=8), 30-40(f=7), 40-50(f=10):",
+        "options": [
+            "30.5",
+            "31.67",
+            "28.5",
+            "32"
+        ],
+        "correct_answer": "B",
+        "explanation": "Titik tengah × f, sum ÷ 30 = 31.67"
+    },
+    {
+        "id": 91,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Histogram vs Graf Bar:",
+        "options": [
+            "Histogram tiada jarak",
+            "Bar tiada warna",
+            "Histogram lebih tinggi",
+            "Tiada beza"
+        ],
+        "correct_answer": "A",
+        "explanation": "Histogram tiada jarak antara bar"
+    },
+    {
+        "id": 92,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Carta pai menunjukkan:",
+        "options": [
+            "Peratusan keseluruhan",
+            "Bar tegak",
+            "Garis lurus",
+            "Titik"
+        ],
+        "correct_answer": "A",
+        "explanation": "Carta pai = peratusan"
+    },
+    {
+        "id": 93,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Ogif digunakan untuk:",
+        "options": [
+            "Min",
+            "Median dan Kuartil",
+            "Mod",
+            "Julat"
+        ],
+        "correct_answer": "B",
+        "explanation": "Ogif cari median/kuartil"
+    },
+    {
+        "id": 94,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Kelas mod ditentukan:",
+        "options": [
+            "Bar paling tinggi",
+            "Bar paling rendah",
+            "Bar pertama",
+            "Bar terakhir"
+        ],
+        "correct_answer": "A",
+        "explanation": "Bar tertinggi = kelas mod"
+    },
+    {
+        "id": 95,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Poligon kekerapan hubungkan:",
+        "options": [
+            "Titik tengah atas histogram",
+            "Had bawah",
+            "Had atas",
+            "Terendah"
+        ],
+        "correct_answer": "A",
+        "explanation": "Hubung titik tengah atas bar"
+    },
+    {
+        "id": 96,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "30% data, sudut carta pai:",
+        "options": [
+            "108°",
+            "120°",
+            "90°",
+            "30°"
+        ],
+        "correct_answer": "A",
+        "explanation": "30%×360 = 108°"
+    },
+    {
+        "id": 97,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Median pada ogif (40 data):",
+        "options": [
+            "20",
+            "40",
+            "10",
+            "30"
+        ],
+        "correct_answer": "A",
+        "explanation": "50% × 40 = 20"
+    },
+    {
+        "id": 98,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Graf bar untuk data:",
+        "options": [
+            "Diskret",
+            "Selanjar",
+            "Longgokan",
+            "Peratusan"
+        ],
+        "correct_answer": "A",
+        "explanation": "Bar = data diskret"
+    },
+    {
+        "id": 99,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Kuartil pertama (Q1) pada ogif:",
+        "options": [
+            "25%",
+            "50%",
+            "75%",
+            "100%"
+        ],
+        "correct_answer": "A",
+        "explanation": "Q1 = 25% data"
+    },
+    {
+        "id": 100,
+        "source": "Latihan Penilaian",
+        "module": "Campuran Modul",
+        "question": "Histogram sesuai untuk:",
+        "options": [
+            "Data selanjar",
+            "Data diskret",
+            "Carta pai",
+            "Ogif"
+        ],
+        "correct_answer": "A",
+        "explanation": "Histogram = data selanjar"
+    }
+]

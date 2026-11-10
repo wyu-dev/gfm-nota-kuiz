@@ -1,0 +1,31 @@
+{
+  "name": "gfm-matematik-tvet",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "PWA nota dan kuiz Matematik TVET GFM031",
+  "scripts": {
+    "dev": "npm run content && vite",
+    "build": "npm run content && tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "content": "node scripts/prepare-content.mjs",
+    "diagrams": "node scripts/extract-diagrams.mjs",
+    "icons": "pwa-assets-generator --preset minimal-2023 public/logo.svg"
+  },
+  "dependencies": {
+    "preact": "^11.2.0"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.10.6",
+    "@types/node": "^22.10.0",
+    "@vite-pwa/assets-generator": "^2.0.0",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.19",
+    "typescript": "^5.7.2",
+    "vite": "^8.3.7",
+    "vite-plugin-pwa": "^2.0.0",
+    "workbox-build": "^7.4.1",
+    "workbox-window": "^7.4.1"
+  }
+}

@@ -1,0 +1,127 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    scroll-padding-top: 5.5rem;
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    html {
+      scroll-behavior: smooth;
+    }
+  }
+
+  body {
+    @apply bg-[#f4f5f3] font-sans text-[16px] leading-relaxed text-slate-800 antialiased;
+  }
+
+  ::selection {
+    @apply bg-indigo-200 text-indigo-950;
+  }
+
+  button,
+  a {
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  :focus-visible {
+    @apply outline-none ring-2 ring-indigo-500 ring-offset-2 ring-offset-[#f4f5f3];
+  }
+}
+
+@layer components {
+  .btn {
+    @apply inline-flex min-h-[48px] items-center justify-center gap-2 rounded-xl px-5 py-3 text-[15px] font-semibold transition active:scale-[0.99] disabled:pointer-events-none disabled:opacity-45;
+  }
+
+  .btn-primary {
+    @apply inline-flex min-h-[48px] items-center justify-center gap-2 rounded-xl bg-slate-950 px-5 py-3 text-[15px] font-semibold text-white shadow-sm transition hover:bg-slate-800 active:scale-[0.99] disabled:pointer-events-none disabled:opacity-45;
+  }
+
+  .btn-secondary {
+    @apply inline-flex min-h-[48px] items-center justify-center gap-2 rounded-xl bg-white px-5 py-3 text-[15px] font-semibold text-slate-800 ring-1 ring-inset ring-slate-300 transition hover:bg-slate-50 active:scale-[0.99] disabled:pointer-events-none disabled:opacity-45;
+  }
+
+  .btn-ghost {
+    @apply inline-flex min-h-[44px] items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-[15px] font-semibold text-slate-700 transition hover:bg-slate-100 active:scale-[0.99];
+  }
+
+  .card {
+    @apply rounded-2xl border border-slate-200/90 bg-white shadow-[0_1px_2px_rgba(15,23,42,0.04)];
+  }
+
+  .chip {
+    @apply inline-flex items-center gap-1.5 rounded-full px-3 py-1 text-xs font-semibold;
+  }
+
+  .eyebrow {
+    @apply text-xs font-bold uppercase tracking-[0.16em] text-slate-500;
+  }
+
+  /* Gambarajah SVG yang disimpan bersama soalan kuiz. */
+  .quiz-diagram svg {
+    display: block;
+    width: 100%;
+    max-width: 28rem;
+    height: auto;
+    margin: 0 auto;
+  }
+
+  /* Kandungan nota asal menggunakan kelas Tailwind + .formula. */
+  .note-content {
+    @apply break-words text-[16px] leading-[1.8] text-slate-700 sm:text-[17px];
+  }
+
+  .note-content h3 {
+    @apply mb-4 mt-10 text-2xl font-bold tracking-tight text-slate-950 sm:text-[28px];
+    scroll-margin-top: 6rem;
+  }
+
+  .note-content h4 {
+    @apply mb-3 mt-8 text-xl font-bold tracking-tight text-slate-900 sm:text-[22px];
+    scroll-margin-top: 6rem;
+  }
+
+  .note-content p {
+    @apply mb-4;
+  }
+
+  .note-content ul {
+    @apply mb-5 list-disc pl-6;
+  }
+
+  .note-content ol {
+    @apply mb-5 list-decimal pl-6;
+  }
+
+  .note-content li {
+    @apply mb-2 pl-1;
+  }
+
+  .note-content strong {
+    @apply font-semibold text-slate-900;
+  }
+
+  .note-content table {
+    @apply my-5 w-full border-collapse overflow-hidden rounded-xl text-[15px];
+  }
+
+  .note-content th {
+    @apply border border-slate-200 bg-slate-50 px-4 py-3 text-left font-semibold text-slate-800;
+  }
+
+  .note-content td {
+    @apply border border-slate-200 px-4 py-3 align-top;
+  }
+
+  .note-content svg {
+    max-width: 100%;
+  }
+
+  .note-content .formula {
+    @apply my-4 rounded-xl border border-indigo-100 bg-indigo-50/70 px-5 py-4 text-center font-mono text-[1.05em] font-semibold text-indigo-800;
+  }
+}
